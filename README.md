@@ -1,17 +1,15 @@
-# Hi there, I'm Zeph Montcheu! 👋
+# Hi there, I'm Stephane Montcheu! 👋
 
-Welcome to my GitHub profile! I'm a **Computational Engineering student** passionate about solving complex problems through code.
+### 🎓 Computational Engineering Student | 💻 Simulation & AI Enthusiast | 🚀 HPC Explorer
+
+I am a passionate **Computational Engineering student** with a strong focus on the intersection of **Numerical Simulation**, **Artificial Intelligence**, and **High-Performance Computing (HPC)**. I love solving complex physical problems using code and accelerating those solutions with modern hardware and algorithms.
 
 ---
+### 🔭 Areas of Focus
 
-### 🚀 About Me
-
-- 🎓 I’m studying **Computational Engineering**.
-- 🔭 I’m currently working on projects related to **Numerical Simulation** and **AI**.
-- 🌱 I’m deeply interested in **High-Performance Computing (HPC)**, **Artificial Intelligence**, and **Numerics**.
-- 👯 I’m looking to collaborate on projects involving scientific computing or machine learning.
-- 💬 Ask me about **Algorithms**, **Math**, or **Simulation**!
-- ⚡ Fun fact: I love optimizing code for speed!
+-   **Numerical Simulation**: Finite Element Method (FEM), Finite Volume Method (FVM), Computational Fluid Dynamics (CFD).
+-   **Artificial Intelligence**: Physics-Informed Neural Networks (PINNs), Data-driven modeling, Deep Learning for Physics.
+-   **High-Performance Computing**: Parallel programming (MPI, OpenMP), GPU acceleration (CUDA), Cloud Computing for Science.
 
 ---
 
@@ -43,6 +41,27 @@ Here are some of the technologies and tools I use:
 </p>
 
 ---
+
+### 🛠️ Technical Skills
+
+| Category | Skills |
+| :--- | :--- |
+| **Languages** | Python, C++, C, MATLAB |
+| **HPC & Parallelism** | MPI, OpenMP, CUDA, Slurm |
+| **AI & ML** | PyTorch, TensorFlow, Scikit-Learn, SciPY |
+| **Simulation Tools** | OpenFOAM, ANSYS, Paraview, Vtk |
+| **Dev Tools** | Git, Docker, Linux, CMake, Bash |
+
+---
+
+### 🌱 Currently Learning
+
+-   Advanced GPU optimization techniques.
+-   Integrating ML surrogates into traditional PDE solvers.
+-   Scalable distributed training for large scientific models.
+
+---
+
 
 ### 📊 GitHub Stats
 
